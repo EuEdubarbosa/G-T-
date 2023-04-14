@@ -1,0 +1,27 @@
+.imagem1 img {
+    
+    width: 210px;
+    height: 95px;
+    left: 41px;
+    top: 17px;
+    background-color: #A6DFF2 ;
+}
+ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+   
+    align-items: center;
+    padding: 60px;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    color: black;
+}
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+h2{
+    color: black;
+}
